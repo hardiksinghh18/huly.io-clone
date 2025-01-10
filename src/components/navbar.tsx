@@ -64,7 +64,7 @@ const Navbar = () => {
                       className="block px-3 py-2 text-sm hover:bg-gray-800"
                     >
                       Changelog
-                      <p className="text-xs text-gray-500">See whaat's new</p>
+                      <p className="text-xs text-gray-500">See what&#39;s new</p>
 
                     </a>
                   </li>
